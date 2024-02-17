@@ -1,0 +1,2 @@
+"E:\download from bing\w64devkit-1.21.0\w64devkit\bin\ar.exe" qc libglad.a CMakeFiles/glad.dir/glad.c.obj
+"E:\download from bing\w64devkit-1.21.0\w64devkit\bin\ranlib.exe" libglad.a

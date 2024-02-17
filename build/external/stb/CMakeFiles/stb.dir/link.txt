@@ -1,0 +1,2 @@
+"E:\download from bing\w64devkit-1.21.0\w64devkit\bin\ar.exe" qc libstb.a CMakeFiles/stb.dir/stb_image.cpp.obj CMakeFiles/stb.dir/stb_vorbis.c.obj
+"E:\download from bing\w64devkit-1.21.0\w64devkit\bin\ranlib.exe" libstb.a
